@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>Greenway</string>
+	<key>Intelligent water supply</key>
+	<string>Abastecimento inteligente </string>
+	<key>Home</key>
+	<string>Página inicial</string>
+	<key>Set</key>
+	<string>Configuração</string>
+	<key>Help</key>
+	<string>Ajuda</string>
+	<key>control</key>
+	<string>主控</string>
+	<key>Run</key>
+	<string>Funcionar</string>
+	<key>Start</key>
+	<string>Funcionar</string>
+	<key>Stop</key>
+	<string>Parar</string>
+	<key>Runing time</key>
+	<string>Tempo de operação</string>
+	<key>Speed</key>
+	<string>Velocidade de operação</string>
+	<key>Output power</key>
+	<string>Potência de saída</string>
+	<key>DC voltage</key>
+	<string>Tensão de corrente contínua</string>
+	<key>Output current</key>
+	<string>Corrente de saída</string>
+	<key>Output frequen</key>
+	<string>Frequência de saída </string>
+	<key>Set pressure</key>
+	<string>Pressão dada </string>
+	<key>Actual pressure</key>
+	<string>Pressão real </string>
+	<key>Read parameters</key>
+	<string>Ler parâmetros</string>
+	<key>Pid Time</key>
+	<string>Responder o tempo de aceleração</string>
+	<key>Breaking protection delay</key>
+	<string>Responder o tempo de aceleração</string>
+	<key>Pipeline coefficient</key>
+	<string>Coeficiente de expansão de tubo</string>
+	<key>Water deficient delay</key>
+	<string>Tempo de detecção de água</string>
+	<key>Antifreeze interval time</key>
+	<string>Tempo de intervalo à prova de congelamento</string>
+	<key>Antifreezing work time</key>
+	<string>Tempo de ação à prova de congelamento</string>
+	<key>Auto changeover delay</key>
+	<string>Adiamento automático de utilização de outra bomba</string>
+	<key>Add pump delay</key>
+	<string>Adiamento de detecção de adicionamento de bomba </string>
+	<key>Reduc pump delay</key>
+	<string>Adiamento de redução de bomba </string>
+	<key>Reduc pump coefficient</key>
+	<string>Coeficiente de redução de bomba</string>
+	<key>No Error</key>
+	<string>无故障</string>
+	<key>Device not connected</key>
+	<string>设备未连接</string>
+	<key>Please input password</key>
+	<string>请输入密码</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Exit</key>
+	<string>Sair</string>
+	<key>Scaning</key>
+	<string>In Connect</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

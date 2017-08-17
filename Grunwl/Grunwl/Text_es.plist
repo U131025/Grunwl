@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>Granville</string>
+	<key>Intelligent water supply</key>
+	<string>Abastecimiento de agua inteligente</string>
+	<key>Home</key>
+	<string>Inicio</string>
+	<key>Set</key>
+	<string>Ajuste</string>
+	<key>Help</key>
+	<string>Ayuda</string>
+	<key>control</key>
+	<string>主控</string>
+	<key>Run</key>
+	<string>Funcionar</string>
+	<key>Start</key>
+	<string>Funcionar</string>
+	<key>Stop</key>
+	<string>Detener</string>
+	<key>Runing time</key>
+	<string>Tiempo de funcionamiento</string>
+	<key>Speed</key>
+	<string>Velocidad de funcionamiento</string>
+	<key>Output power</key>
+	<string>Potencia de salida</string>
+	<key>DC voltage</key>
+	<string>Tensión DC</string>
+	<key>Output current</key>
+	<string>Corriente de salida</string>
+	<key>Output frequen</key>
+	<string>Frecuencia de salida</string>
+	<key>Set pressure</key>
+	<string>Presión dada</string>
+	<key>Actual pressure</key>
+	<string>Presión real</string>
+	<key>Read parameters</key>
+	<string>Leer parámetro</string>
+	<key>Pid Time</key>
+	<string>Tiempo de aceleración de respuesta</string>
+	<key>Breaking protection delay</key>
+	<string>Retardo de protección de desconexión</string>
+	<key>Pipeline coefficient</key>
+	<string>Coeficiente de expansión del gasoducto</string>
+	<key>Water deficient delay</key>
+	<string>Tiempo de detección de falta de agua</string>
+	<key>Antifreeze interval time</key>
+	<string>Tiempo de intervalo de anticongelante</string>
+	<key>Antifreezing work time</key>
+	<string>Tiempo de acción de anticongelante</string>
+	<key>Auto changeover delay</key>
+	<string>Retardo de salir bomba automática</string>
+	<key>Add pump delay</key>
+	<string>Retardo de detección de añadir la bomba</string>
+	<key>Reduc pump delay</key>
+	<string>Retardo de detección de reducir la bomba</string>
+	<key>Reduc pump coefficient</key>
+	<string>Coeficiente de detección de reducir la bomba</string>
+	<key>No Error</key>
+	<string>无故障</string>
+	<key>Device not connected</key>
+	<string>设备未连接</string>
+	<key>Please input password</key>
+	<string>请输入密码</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Exit</key>
+	<string>Salir</string>
+	<key>Scaning</key>
+	<string>In Connect</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+hata yardımı
+E.1.P : sensör kırılı alarmı
+    1.su çıkışında boru patlaması
+    2.su girişinde su yok
+    3.motor ters çalışıyor
+    4.Pompada hava var
+    5.Pompa bozuldu
+    6. sensör bozuldu
+E.3P : su eksikliği alarmı
+    1.Su giriş engellendi ya da su yok
+    2.Pompada hava var
+    3.Pompa ve motor arasındaki şaft sorunu
+    4.kuru çalışma
+EE01P : yetersiz güç alarmı
+    1.giriş voltajı normal voltajdan 75% düşük
+    2.elektrik kablosu çok uzun veya ince
+    3.Pompa hafif hasarlı (Daha büyük güç gerekir)
+EE1P : yedek sensör hatası
+    1. yedek sensör ters bağlı veya kırılı
+    2. sensör nominal hatası
+    3. yedek sensör kırılı
+EE21 :  sensör ulaşım hatası
+    1. sensör hata  bağlı
+    2.sansör uygun değil

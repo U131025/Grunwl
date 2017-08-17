@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>GRUNWL</string>
+	<key>Intelligent water supply</key>
+	<string>Интеллектуальное водоснабжение</string>
+	<key>Home</key>
+	<string>Главная страница</string>
+	<key>Set</key>
+	<string>Настройка</string>
+	<key>Help</key>
+	<string>Помощь</string>
+	<key>control</key>
+	<string>Центральное управление</string>
+	<key>Run</key>
+	<string>режим работы</string>
+	<key>Start</key>
+	<string>старт</string>
+	<key>Stop</key>
+	<string>Стоп</string>
+	<key>Runing time</key>
+	<string>Время работы</string>
+	<key>Speed</key>
+	<string>Скорость при работе</string>
+	<key>Output power</key>
+	<string>Выходная мощность</string>
+	<key>DC voltage</key>
+	<string>Напряжение постоянного тока</string>
+	<key>Output current</key>
+	<string>Выходной ток</string>
+	<key>Output frequen</key>
+	<string>Выходная частота</string>
+	<key>Set pressure</key>
+	<string>Номинальное давление</string>
+	<key>Actual pressure</key>
+	<string>Реальное давление</string>
+	<key>Read parameters</key>
+	<string>Чтение параметров</string>
+	<key>Pid Time</key>
+	<string>Время отклика и ускорения</string>
+	<key>Breaking protection delay</key>
+	<string>Задержка при защите от обрыва проводов</string>
+	<key>Pipeline coefficient</key>
+	<string>Коэффициент расширения трубопроводов</string>
+	<key>Water deficient delay</key>
+	<string>Время для проверки нехватки воды</string>
+	<key>Antifreeze interval time</key>
+	<string>Интервальное время противомороза</string>
+	<key>Antifreezing work time</key>
+	<string>Оперативное время противомороза</string>
+	<key>Auto changeover delay</key>
+	<string>Время автоматического реверса колеса</string>
+	<key>Add pump delay</key>
+	<string>Задержка при проверке добавления насоса</string>
+	<key>Reduc pump delay</key>
+	<string>Задержка при проверке отключения насоса</string>
+	<key>Reduc pump coefficient</key>
+	<string>Коэффициент проверки отключения насоса</string>
+	<key>No Error</key>
+	<string>нет неисправности</string>
+	<key>Device not connected</key>
+	<string>оборудование не подключено</string>
+	<key>Please input password</key>
+	<string>введите пароль</string>
+	<key>Invalid password</key>
+	<string>Пароль не действует</string>
+	<key>Debug</key>
+	<string>отладка</string>
+	<key>Exit</key>
+	<string>выход</string>
+	<key>Scaning</key>
+	<string>идёт подключение</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

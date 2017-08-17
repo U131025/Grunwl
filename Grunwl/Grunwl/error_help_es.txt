@@ -1,0 +1,29 @@
+Ayuda de fallos
+E.1P: alarma de rotura de sensor
+    Motivos:
+    1. Ruptura del tubo de salida
+    2. Falta de agua de entrada
+    3. La dirección de motor de la bomba es contrario
+    4. La bomba tiene aire
+    5. La bomba es mala
+    6. El sensor es mal
+E.3P: alarma de falta de agua
+    Motivos:
+    1. La entrada es bloqueada o falta de agua
+    2. La bomba tiene aire
+    3. La bomba y el eje de conexión del motor tienen problemas.
+    4. La bomba funciona en seco
+EE01P: advertencia por la potencia no es suficiente
+    Motivos:
+    1. La tensión es inferior al 75% (tensión nominal)
+    2. La potencia es insuficiente por que la línea de alimentación es demasiado largo o el diámetro de línea es fina
+    3. La bomba tiene ligeros daños que causa el aumento de potencia
+EE1P: el sensor de repuesto tiene fallos
+    Motivos:
+    1. La conexión de línea de sensor de repuesto es invertida o la línea se rompe
+    2. El alcance nominal de sensor de repuesto es desajuste
+    3. El sensor de repuesto es mal
+EE21: el sensor es indetectable
+    Motivos:
+    1. La conexión de sensor es incorrecta o invertida
+    2. El sensor es desajuste

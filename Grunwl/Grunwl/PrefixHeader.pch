@@ -1,0 +1,45 @@
+//
+//  PrefixHeader.pch
+//  Grunwl
+//
+//  Created by mojingyu on 16/1/30.
+//  Copyright © 2016年 Mojy. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef DEBUG // 调试状态, 打开LOG功能
+#define MyLog(...) NSLog(__VA_ARGS__)
+#else // 发布状态, 关闭LOG功能
+#define MyLog(...)
+#endif
+
+#ifdef DEBUG
+#define TestOtherDevice @"Othr Device"
+#define TestImitateBluetoolDevice @"Imitate Device"
+#endif
+
+#ifdef __OBJC__
+
+#import "ColorDefine.h"
+#import "UIDefine.h"
+#import "UIView+Extension.h"
+#import "NSString+Extension.h"
+#import "UIImage+Extension.h"
+#import "SingletonMacro.h"
+#import "NotifyDefine.h"
+#import "ITTCustomAlertView.h"
+#import "AppDelegate.h"
+#import "TextDefine.h"
+#import "MBProgressHUD+NJ.h"
+#import "Bluetooth/BluetoothManager.h"
+#import <Bugly/Bugly.h>
+#import "Masonry.h"
+
+#endif
+
+#endif /* PrefixHeader_pch */

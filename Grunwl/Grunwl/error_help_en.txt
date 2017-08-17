@@ -1,0 +1,30 @@
+Error help
+E.1.P: Alarm of transmitter breaking
+    1. Pipe burst at water outlet
+    2. No water at water inlet
+    3. Motor runs in reverse
+    4. Pump body with air
+    5. Pump is broken
+    6. Transmitter is broken
+E. 3P: Alarm of lack of water
+    1. Water inlet blocked or no water
+    2. Pump body with air
+    3. Shaft problem between pump
+       and motor
+    4. Dry running
+EE01P: Alarm of insufficient power
+    1. Input voltage is lower 75% of
+       normal voltage.
+    2. Power cable is too long or thin
+       to provide enough power
+    3. Pump is lightly damaged (needs
+       bigger power)
+EE1P: Spare transmitter fault
+    1. Spare transmitter connected in
+       reverse or breaking
+    2. Rated range of spare transmitter
+       is not suitable
+    3. Spare transmitter is broken
+EE21: Detected no transmitter
+    1. Transmitter is wrong connecting.
+    2. Transmitter is suitable

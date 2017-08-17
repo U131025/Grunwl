@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>格兰威</string>
+	<key>Intelligent water supply</key>
+	<string>스마트 급수 </string>
+	<key>Home</key>
+	<string>홈페이지</string>
+	<key>Set</key>
+	<string>설정</string>
+	<key>Help</key>
+	<string>도움</string>
+	<key>control</key>
+	<string>主控</string>
+	<key>Run</key>
+	<string>운전</string>
+	<key>Start</key>
+	<string>운전</string>
+	<key>Stop</key>
+	<string>정지</string>
+	<key>Runing time</key>
+	<string>운전시간</string>
+	<key>Speed</key>
+	<string>운전 회전 속도</string>
+	<key>Output power</key>
+	<string>아웃풋 파워</string>
+	<key>DC voltage</key>
+	<string>직류 전압</string>
+	<key>Output current</key>
+	<string>아웃풋 전류</string>
+	<key>Output frequen</key>
+	<string>아웃풋 빈도</string>
+	<key>Set pressure</key>
+	<string>설정 압력</string>
+	<key>Actual pressure</key>
+	<string>실제 압력</string>
+	<key>Read parameters</key>
+	<string>파라미터 읽기 </string>
+	<key>Pid Time</key>
+	<string>가속시간 응답</string>
+	<key>Breaking protection delay</key>
+	<string>단선보호 연시</string>
+	<key>Pipeline coefficient</key>
+	<string>도관 팽창 계수</string>
+	<key>Water deficient delay</key>
+	<string>물 부족 검사 시간</string>
+	<key>Antifreeze interval time</key>
+	<string>결빙 방지 간격 시간</string>
+	<key>Antifreezing work time</key>
+	<string>결빙 방지 동작 시간</string>
+	<key>Auto changeover delay</key>
+	<string>자동 펌프 교대 연시</string>
+	<key>Add pump delay</key>
+	<string>펌프 증가 검사 연시</string>
+	<key>Reduc pump delay</key>
+	<string>펌프 감소 검사 연시</string>
+	<key>Reduc pump coefficient</key>
+	<string>펌프 감소 검사 계수</string>
+	<key>No Error</key>
+	<string>无故障</string>
+	<key>Device not connected</key>
+	<string>设备未连接</string>
+	<key>Please input password</key>
+	<string>请输入密码</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Exit</key>
+	<string>로그아웃</string>
+	<key>Scaning</key>
+	<string>In Connect</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

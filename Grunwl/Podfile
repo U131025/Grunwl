@@ -1,0 +1,29 @@
+platform :ios, "8.1"
+
+
+def shared_pods
+    pod 'Bugly'
+    pod 'Masonry'
+end
+
+# There are no targets called "Shows" in any Xcode projects
+
+abstract_target 'defaults' do
+    
+    shared_pods
+    
+    target 'Grunwl'
+    target 'ETNA'
+    target 'DPC'
+    target 'MAB'
+    target 'SUMAK'
+    target 'ebitt'
+    target 'LEO'
+    target 'KERMANI'
+    target 'FULlNG'
+    target 'WeNDY'
+    target 'FLOTEQ'
+    target 'IPP'
+    target 'KAIYUAN'
+    
+end

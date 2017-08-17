@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>GRUNWL</string>
+	<key>Intelligent water supply</key>
+	<string>Intelligent water supply</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>Set</key>
+	<string>Set</string>
+	<key>Help</key>
+	<string>Help</string>
+	<key>control</key>
+	<string>control</string>
+	<key>Run</key>
+	<string>Run</string>
+	<key>Start</key>
+	<string>Start</string>
+	<key>Stop</key>
+	<string>Stop</string>
+	<key>Runing time</key>
+	<string>Runing time</string>
+	<key>Speed</key>
+	<string>Speed</string>
+	<key>Output power</key>
+	<string>Power</string>
+	<key>DC voltage</key>
+	<string>DC voltage</string>
+	<key>Output current</key>
+	<string>Current</string>
+	<key>Output frequen</key>
+	<string>Frequen</string>
+	<key>Set pressure</key>
+	<string>Set pressure</string>
+	<key>Actual pressure</key>
+	<string>Actual pressure</string>
+	<key>Read parameters</key>
+	<string>Read parameters</string>
+	<key>Pid Time</key>
+	<string>Pid Time</string>
+	<key>Breaking protection delay</key>
+	<string>Breaking protection delay</string>
+	<key>Pipeline coefficient</key>
+	<string>Pipeline coefficient</string>
+	<key>Water deficient delay</key>
+	<string>Water deficient delay</string>
+	<key>Antifreeze interval time</key>
+	<string>Antifreeze interval time</string>
+	<key>Antifreezing work time</key>
+	<string>Antifreezing work time</string>
+	<key>Auto changeover delay</key>
+	<string>Auto changeover delay</string>
+	<key>Add pump delay</key>
+	<string>Add pump delay</string>
+	<key>Reduc pump delay</key>
+	<string>Reduc pump delay</string>
+	<key>Reduc pump coefficient</key>
+	<string>Reduc pump coefficient</string>
+	<key>No Error</key>
+	<string>No Error</string>
+	<key>Device not connected</key>
+	<string>Device not connected</string>
+	<key>Exit</key>
+	<string>Exit</string>
+	<key>Scaning</key>
+	<string>In Connect</string>
+	<key>Please input password</key>
+	<string>Please input password</string>
+	<key>Invalid password</key>
+	<string>Invalid password</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

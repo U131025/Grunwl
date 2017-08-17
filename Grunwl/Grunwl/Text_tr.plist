@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>GRUNWL</string>
+	<key>Intelligent water supply</key>
+	<string>Akıllı pompa sistem</string>
+	<key>Home</key>
+	<string>Ana ekran</string>
+	<key>Set</key>
+	<string>Ayar</string>
+	<key>Help</key>
+	<string>Yardım</string>
+	<key>control</key>
+	<string>Ana Kontrol</string>
+	<key>Run</key>
+	<string>çalıştır</string>
+	<key>Start</key>
+	<string>çalıştır</string>
+	<key>Stop</key>
+	<string>durdur</string>
+	<key>Runing time</key>
+	<string>Çalışma süresi</string>
+	<key>Speed</key>
+	<string>Çalışma hızı</string>
+	<key>Output power</key>
+	<string>çıkış Gücü</string>
+	<key>DC voltage</key>
+	<string>DC gerilim</string>
+	<key>Output current</key>
+	<string>çıkış Akımı</string>
+	<key>Output frequen</key>
+	<string>çıkış frekansı</string>
+	<key>Set pressure</key>
+	<string>basınç</string>
+	<key>Actual pressure</key>
+	<string>anlık basınç</string>
+	<key>Read parameters</key>
+	<string>parametre oku</string>
+	<key>Pid Time</key>
+	<string>pid zaman</string>
+	<key>Breaking protection delay</key>
+	<string>kırma koruma gecikmesi</string>
+	<key>Pipeline coefficient</key>
+	<string>boru katsayı</string>
+	<key>Water deficient delay</key>
+	<string>Su eksikliği gecikmesi</string>
+	<key>Antifreeze interval time</key>
+	<string>antifriz ara süresi</string>
+	<key>Antifreezing work time</key>
+	<string>antifriz çalışma süresi</string>
+	<key>Auto changeover delay</key>
+	<string>Otomatik geçiş süresi</string>
+	<key>Add pump delay</key>
+	<string>Pompa gecikmesi ekle</string>
+	<key>Reduc pump delay</key>
+	<string>Pompa gecikmesi azalt</string>
+	<key>Reduc pump coefficient</key>
+	<string>Pompa katsayı azalt</string>
+	<key>No Error</key>
+	<string>Arıza yok</string>
+	<key>Device not connected</key>
+	<string>Aygıt bağlı değil</string>
+	<key>Please input password</key>
+	<string>Parolınıza girin</string>
+	<key>Invalid password</key>
+	<string>Geçersiz parol</string>
+	<key>Debug</key>
+	<string>Hata ayıklama</string>
+	<key>Exit</key>
+	<string>Çıkış</string>
+	<key>Scaning</key>
+	<string>Bağlanıyor</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+Aiuto del guasto
+E.1P:  l’allarme della disconnessione del sensore
+    causa:
+    1. La rottura di tubo dell’uscita di aqcua
+    2. La mancanza dell’acqua nell’ingresso
+    3. La capovolta del motore di pompa
+    4. C’è l’aria nella pompa
+    5. La pompa dell’acqua è rotta
+    6. Il sensore è rotto
+
+E.3P: l’allarme della mancaza dell’acqua
+    causa:
+    1. L’ingresso dell’acqua è bloccato o manca l’acqua
+    2. C’è l’aria nella pompa
+    3. Il problema dell’albero di connessione fra la pompa e il motore
+    4. La pompa dell’acqua funziona da sola
+
+EE01P:  l’allarme della mancanza di potere dell’alimentazione
+    causa:
+    1. La tensione dell’alimentazione è inferiore al 75% (tensione standard)
+    2. La Potenza insufficiente è causata della linea d’alimentazione troppo lunga o il diametro ridotto
+    3. La pompa dell’acqua è danneggiata lievemente causando l’aumento della potenza d’alimentazione
+
+EE1P: il guasto del sensore di backup
+    causa:
+    1. Il filo elettrico del sensore di backup è invertito o rotto
+    2. La capacità nominale del sensore di backup non è corrispondente
+    3. Il sensore di backup è rotto
+
+EE21: il sensore non può essere rilevato
+    causa:
+    1. La connessione del sensore è sbagliata o invertita
+    2. Il sensore non è corrispondente

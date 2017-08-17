@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>格兰威</string>
+	<key>Intelligent water supply</key>
+	<string>智慧供水</string>
+	<key>Home</key>
+	<string>主页</string>
+	<key>Set</key>
+	<string>设置</string>
+	<key>Help</key>
+	<string>帮助</string>
+	<key>control</key>
+	<string>主控</string>
+	<key>Run</key>
+	<string>运行</string>
+	<key>Start</key>
+	<string>启动</string>
+	<key>Stop</key>
+	<string>停止</string>
+	<key>Runing time</key>
+	<string>运行时间</string>
+	<key>Speed</key>
+	<string>运行转速</string>
+	<key>Output power</key>
+	<string>输出功率</string>
+	<key>DC voltage</key>
+	<string>直流电压</string>
+	<key>Output current</key>
+	<string>输出电流</string>
+	<key>Output frequen</key>
+	<string>输出频率</string>
+	<key>Set pressure</key>
+	<string>给定压力</string>
+	<key>Actual pressure</key>
+	<string>实际压力</string>
+	<key>Read parameters</key>
+	<string>读取参数</string>
+	<key>Pid Time</key>
+	<string>响应加速时间</string>
+	<key>Breaking protection delay</key>
+	<string>断线保护延时</string>
+	<key>Pipeline coefficient</key>
+	<string>管道膨胀系数</string>
+	<key>Water deficient delay</key>
+	<string>缺水检测时间</string>
+	<key>Antifreeze interval time</key>
+	<string>防冻间隔时间</string>
+	<key>Antifreezing work time</key>
+	<string>防冻动作时间</string>
+	<key>Auto changeover delay</key>
+	<string>自动倒泵延时</string>
+	<key>Add pump delay</key>
+	<string>加泵检测延时</string>
+	<key>Reduc pump delay</key>
+	<string>减泵检测延时</string>
+	<key>Reduc pump coefficient</key>
+	<string>减泵检测系数</string>
+	<key>No Error</key>
+	<string>无故障</string>
+	<key>Device not connected</key>
+	<string>设备未连接</string>
+	<key>Please input password</key>
+	<string>请输入密码</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Debug</key>
+	<string>调试</string>
+	<key>Exit</key>
+	<string>退出</string>
+	<key>Scaning</key>
+	<string>连接中</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>激活</string>
+</dict>
+</plist>

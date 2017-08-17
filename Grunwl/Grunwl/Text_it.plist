@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>Granville</string>
+	<key>Intelligent water supply</key>
+	<string>Regolatore d’approvvigionamento idrico</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>Set</key>
+	<string>Impostazione</string>
+	<key>Help</key>
+	<string>Aiuto</string>
+	<key>control</key>
+	<string>Esce</string>
+	<key>Run</key>
+	<string>funziona</string>
+	<key>Start</key>
+	<string>funziona</string>
+	<key>Stop</key>
+	<string>stop</string>
+	<key>Runing time</key>
+	<string>Tempo di funzionamento</string>
+	<key>Speed</key>
+	<string>Velocità di lavoro</string>
+	<key>Output power</key>
+	<string>Potenza d’uscita</string>
+	<key>DC voltage</key>
+	<string>Tensione continua</string>
+	<key>Output current</key>
+	<string>Corrente d’uscita</string>
+	<key>Output frequen</key>
+	<string>Frequenza d’uscita</string>
+	<key>Set pressure</key>
+	<string>Pressione precisa</string>
+	<key>Actual pressure</key>
+	<string>Pressione effettiva</string>
+	<key>Read parameters</key>
+	<string>Parametric</string>
+	<key>Pid Time</key>
+	<string>il tempo di reazione di accelerazione</string>
+	<key>Breaking protection delay</key>
+	<string>la protezione del ritardo di disconnessione</string>
+	<key>Pipeline coefficient</key>
+	<string>il coefficiente di dilatazione del tubo</string>
+	<key>Water deficient delay</key>
+	<string>il tempo di rilevamento della mancanza dell’acqua</string>
+	<key>Antifreeze interval time</key>
+	<string>il tempo d’intervallo dell’antigelo</string>
+	<key>Antifreezing work time</key>
+	<string>il tempo dell’azione dell’antigelo</string>
+	<key>Auto changeover delay</key>
+	<string>il tempo di ritardo della commutazione automatica di pompa</string>
+	<key>Add pump delay</key>
+	<string>il tempo di ritardo di rilevamento dell’aggiunta di pompa</string>
+	<key>Reduc pump delay</key>
+	<string>il tempo di ritardo di rilevamento della riduzione di pompa</string>
+	<key>Reduc pump coefficient</key>
+	<string>il coefficient di rilevamento della riduzione di pompa</string>
+	<key>No Error</key>
+	<string>无故障</string>
+	<key>Device not connected</key>
+	<string>设备未连接</string>
+	<key>Please input password</key>
+	<string>请输入密码</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Exit</key>
+	<string>退出</string>
+	<key>Scaning</key>
+	<string>In Connect</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>

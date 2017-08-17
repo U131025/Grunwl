@@ -1,0 +1,29 @@
+Ajudas de falha
+E.1P: Aviso de desconexão de sensor
+    Razão：
+    1 Ruptura do tubo de saída de água
+    2 Falta de água na entrada de água
+    3 A direção do motor de bomba está contrária
+    4 Há ar na bomba
+    5 A bomba está quebrada
+    6 O sensor está quebrado
+E.3P: Aviso de falta de água
+    Razão:
+    1 Entrada de água bloqueada ou falta de água
+    2 Há ar na bomba
+    3 Problema na ligação entre bomba e motor
+    4 Bomba funciona sem água
+EE01P: Aviso de insuficiência de potência de energia
+    Razão：
+    1 A tensão de energia é inferior a 75% (tensão nominal)
+    2 O cabo de alimentação é demais comprido ou o diâmetro é demais pequeno que causa a potência insuficiente
+    3 A bomba tem pequeno dano que causa o aumento de potência de energia
+EE1P: Falha do sensor de reserva
+    Razão：
+    1 A ligação de sensor de reserva está errada ou desconexão
+    2 A gama nominal do sensor de reserva não corresponde
+    3 O sensor de reserva está quebrado
+EE21: o sensor não está detectável
+    Razão：
+    1 A ligação do sensor está errada
+    2 O sensor não corresponde 

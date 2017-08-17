@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRUNWL</key>
+	<string>إمدادات المياه الذكية</string>
+	<key>Intelligent water supply</key>
+	<string>جرانفيل</string>
+	<key>Home</key>
+	<string>خروج</string>
+	<key>Set</key>
+	<string>مساعدة</string>
+	<key>Help</key>
+	<string>إعدادات</string>
+	<key>control</key>
+	<string>主控</string>
+	<key>Run</key>
+	<string>تشغيل</string>
+	<key>Start</key>
+	<string>تشغيل</string>
+	<key>Stop</key>
+	<string>توقف</string>
+	<key>Runing time</key>
+	<string>طاقة الانتاج</string>
+	<key>Speed</key>
+	<string>سرعة التشغيل</string>
+	<key>Output power</key>
+	<string>وقت التشغيل</string>
+	<key>DC voltage</key>
+	<string>تردد الانتاج</string>
+	<key>Output current</key>
+	<string>تيار الانتاج</string>
+	<key>Output frequen</key>
+	<string>التيار المباشر</string>
+	<key>Set pressure</key>
+	<string>الضغط الفعلي</string>
+	<key>Actual pressure</key>
+	<string>ضغط معين</string>
+	<key>Read parameters</key>
+	<string>إمدادات المياه الذكية</string>
+	<key>Pid Time</key>
+	<string>استجابة وقت التسارع</string>
+	<key>Breaking protection delay</key>
+	<string>تأخير حماية الانقطاع</string>
+	<key>Pipeline coefficient</key>
+	<string>معامل تمدد الأنابيب</string>
+	<key>Water deficient delay</key>
+	<string>وقت الكشف عن نقص المياه</string>
+	<key>Antifreeze interval time</key>
+	<string>الوقت الفاصل لحماية التجمد</string>
+	<key>Antifreezing work time</key>
+	<string>وقت العمل لحماية التجمد</string>
+	<key>Auto changeover delay</key>
+	<string>تأخيرنقل المضخة التلقائي</string>
+	<key>Add pump delay</key>
+	<string>تأخير الكشف عن زيادة المضخة</string>
+	<key>Reduc pump delay</key>
+	<string>تأخير الكشف عن  نقص المضخة</string>
+	<key>Reduc pump coefficient</key>
+	<string>معامل الكشف عن  نقص المضخة</string>
+	<key>No Error</key>
+	<string>无故障</string>
+	<key>Device not connected</key>
+	<string>设备未连接</string>
+	<key>Please input password</key>
+	<string>请输入密码</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Exit</key>
+	<string>الصفحة الرئيسية</string>
+	<key>Scaning</key>
+	<string>In Connect</string>
+	<key>Connected</key>
+	<string>OK</string>
+	<key>Active</key>
+	<string>Active</string>
+</dict>
+</plist>
