@@ -1294,6 +1294,7 @@
 		E5BF3D981F4582F600E7004F /* UITableViewCell+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = E5BF3D661F4582F600E7004F /* UITableViewCell+Extension.m */; };
 		E5BF3D991F4582F600E7004F /* UITableViewCell+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = E5BF3D661F4582F600E7004F /* UITableViewCell+Extension.m */; };
 		E5BF3D9A1F4582F600E7004F /* UITableViewCell+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = E5BF3D661F4582F600E7004F /* UITableViewCell+Extension.m */; };
+		E5BF3D9E1F4588EF00E7004F /* WebContrlViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E5BF3D9D1F4588EF00E7004F /* WebContrlViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1509,6 +1510,8 @@
 		E5BF3D621F4582F600E7004F /* NSArray+SHYUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+SHYUtil.m"; sourceTree = "<group>"; };
 		E5BF3D651F4582F600E7004F /* UITableViewCell+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewCell+Extension.h"; sourceTree = "<group>"; };
 		E5BF3D661F4582F600E7004F /* UITableViewCell+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewCell+Extension.m"; sourceTree = "<group>"; };
+		E5BF3D9C1F4588EF00E7004F /* WebContrlViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WebContrlViewController.h; path = ViewController/WebControl/WebContrlViewController.h; sourceTree = "<group>"; };
+		E5BF3D9D1F4588EF00E7004F /* WebContrlViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WebContrlViewController.m; path = ViewController/WebControl/WebContrlViewController.m; sourceTree = "<group>"; };
 		EDFBFA0ABB4EEC7631C91352 /* Pods-defaults-ebitt.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-defaults-ebitt.debug.xcconfig"; path = "Pods/Target Support Files/Pods-defaults-ebitt/Pods-defaults-ebitt.debug.xcconfig"; sourceTree = "<group>"; };
 		EEA0F109E3BEB74397D63286 /* libPods-defaults-Grunwl.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-defaults-Grunwl.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3582B9E9C8D7CC6D66BD4A2 /* libPods-defaults-KERMANI.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-defaults-KERMANI.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1955,6 +1958,7 @@
 		D5DDD4691C5BB1AC002D1264 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				E5BF3D9B1F45888300E7004F /* 网络控制中心 */,
 				D5DDD46B1C5BBCBE002D1264 /* BaseViewController.h */,
 				D5DDD46C1C5BBCBE002D1264 /* BaseViewController.m */,
 				D5DDD46E1C5C4F4F002D1264 /* HomeViewController.h */,
@@ -2096,6 +2100,15 @@
 				E5BF3D661F4582F600E7004F /* UITableViewCell+Extension.m */,
 			);
 			path = LTTableView;
+			sourceTree = "<group>";
+		};
+		E5BF3D9B1F45888300E7004F /* 网络控制中心 */ = {
+			isa = PBXGroup;
+			children = (
+				E5BF3D9C1F4588EF00E7004F /* WebContrlViewController.h */,
+				E5BF3D9D1F4588EF00E7004F /* WebContrlViewController.m */,
+			);
+			name = "网络控制中心";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -4586,6 +4599,7 @@
 				D5A5CACB1C5FA3EE00BF9FD1 /* YzdHUDLabel.m in Sources */,
 				D524D93A1C87435E00044B08 /* MBProgressHUD.m in Sources */,
 				D5AF1B571CF28D28004351C9 /* DevicesViewController.m in Sources */,
+				E5BF3D9E1F4588EF00E7004F /* WebContrlViewController.m in Sources */,
 				D5A5CACE1C5FA3EE00BF9FD1 /* PoppingBaseView.m in Sources */,
 				D524D9381C87435E00044B08 /* MBProgressHUD+NJ.m in Sources */,
 				D5A5CAC71C5FA3EE00BF9FD1 /* UIWindow+YzdHUD.m in Sources */,
