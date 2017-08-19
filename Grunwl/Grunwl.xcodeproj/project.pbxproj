@@ -27,6 +27,8 @@
 		D524D9381C87435E00044B08 /* MBProgressHUD+NJ.m in Sources */ = {isa = PBXBuildFile; fileRef = D524D9341C87435E00044B08 /* MBProgressHUD+NJ.m */; };
 		D524D9391C87435E00044B08 /* MBProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D524D9351C87435E00044B08 /* MBProgressHUD.bundle */; };
 		D524D93A1C87435E00044B08 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = D524D9371C87435E00044B08 /* MBProgressHUD.m */; };
+		D52CFAD91F45C9F20023CE99 /* ETILinkSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D52CFAD81F45C9F20023CE99 /* ETILinkSDK.framework */; };
+		D52CFADF1F45D5370023CE99 /* ETILinkManger.m in Sources */ = {isa = PBXBuildFile; fileRef = D52CFADE1F45D5370023CE99 /* ETILinkManger.m */; };
 		D53E11811EFE60330014B8C0 /* YzdHUDBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = D5A5CAB81C5FA3EE00BF9FD1 /* YzdHUDBackgroundView.m */; };
 		D53E11821EFE60330014B8C0 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D5DDD46C1C5BBCBE002D1264 /* BaseViewController.m */; };
 		D53E11831EFE60330014B8C0 /* YzdHUDImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D5A5CABA1C5FA3EE00BF9FD1 /* YzdHUDImageView.m */; };
@@ -1341,6 +1343,9 @@
 		D524D9351C87435E00044B08 /* MBProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MBProgressHUD.bundle; sourceTree = "<group>"; };
 		D524D9361C87435E00044B08 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
 		D524D9371C87435E00044B08 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		D52CFAD81F45C9F20023CE99 /* ETILinkSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ETILinkSDK.framework; sourceTree = "<group>"; };
+		D52CFADD1F45D5370023CE99 /* ETILinkManger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ETILinkManger.h; path = ViewController/WebControl/ETILinkManger.h; sourceTree = "<group>"; };
+		D52CFADE1F45D5370023CE99 /* ETILinkManger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ETILinkManger.m; path = ViewController/WebControl/ETILinkManger.m; sourceTree = "<group>"; };
 		D53E11EA1EFE60330014B8C0 /* FLOTEQ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FLOTEQ.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D53E11EB1EFE60340014B8C0 /* FLOTEQ-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "FLOTEQ-Info.plist"; path = "/My Projects/已完结项目/蓝天设计/Grunwl/FLOTEQ-Info.plist"; sourceTree = "<absolute>"; };
 		D53E11F01EFFB4340014B8C0 /* title_FLOTEQ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_FLOTEQ.png; sourceTree = "<group>"; };
@@ -1686,6 +1691,7 @@
 				D57CA56D1CB4081C00EDD027 /* Security.framework in Frameworks */,
 				D57CA56B1CB4080F00EDD027 /* SystemConfiguration.framework in Frameworks */,
 				D57CA5691CB407F600EDD027 /* Bugly.framework in Frameworks */,
+				D52CFAD91F45C9F20023CE99 /* ETILinkSDK.framework in Frameworks */,
 				AA4A59C109131722FD90DEF3 /* libPods-defaults-Grunwl.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1696,6 +1702,7 @@
 		136FB5DB2A558537DDEBDEAE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D52CFAD81F45C9F20023CE99 /* ETILinkSDK.framework */,
 				D57CA56E1CB4087E00EDD027 /* libz.tbd */,
 				D5E7A78C1CCE5EDD00F398E7 /* AVFoundation.framework */,
 				D57CA56C1CB4081C00EDD027 /* Security.framework */,
@@ -2107,6 +2114,8 @@
 			children = (
 				E5BF3D9C1F4588EF00E7004F /* WebContrlViewController.h */,
 				E5BF3D9D1F4588EF00E7004F /* WebContrlViewController.m */,
+				D52CFADD1F45D5370023CE99 /* ETILinkManger.h */,
+				D52CFADE1F45D5370023CE99 /* ETILinkManger.m */,
 			);
 			name = "网络控制中心";
 			sourceTree = "<group>";
@@ -4589,6 +4598,7 @@
 				D5DDD46D1C5BBCBE002D1264 /* BaseViewController.m in Sources */,
 				D5A5CAC91C5FA3EE00BF9FD1 /* YzdHUDImageView.m in Sources */,
 				D5A5CA6D1C5D144600BF9FD1 /* SettingViewController.m in Sources */,
+				D52CFADF1F45D5370023CE99 /* ETILinkManger.m in Sources */,
 				D50A22C11D2A00DB005759CD /* CircleView.m in Sources */,
 				D57907CD1D29168B006568EE /* MultiPumpBackgroundView.m in Sources */,
 				D5A5CA7D1C5E44AE00BF9FD1 /* BluetoothCommand.m in Sources */,

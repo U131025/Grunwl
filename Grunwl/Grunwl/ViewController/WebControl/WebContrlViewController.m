@@ -7,6 +7,7 @@
 //
 
 #import "WebContrlViewController.h"
+#import <ETILinkSDK/ETILinkSDK.h>
 
 @interface WebContrlViewController ()
 
@@ -14,12 +15,21 @@
 
 @implementation WebContrlViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    [ETILink addUserWithAppKey:@"" secretKey:@"" host:@"" port:8085 username:@"" nickname:@"" handler:^(ETUser * _Nullable, NSError * _Nullable) {
+        
+        
+    }];
+    
+
 }
 
-- (void)didReceiveMemoryWarning {
+- (void)didReceiveMemoryWarning
+{
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
